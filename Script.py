@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀɪ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/Legend_journey">SʀMᴏᴠɪᴇᴢ</a> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/Legend_journey">SRIKANTH</a> 😎</b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  ᴍʏ ɴᴀᴍᴇ : {}
- ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Legend_journey'>SʀMᴏᴠɪᴇᴢ</a>
+ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Legend_journey'>srikanth</a>
  ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
  ʜᴏsᴛᴇᴅ ᴏɴ  : <a href='https://www.heroku.com/'>Hᴇʀᴏᴋᴜ</a>
@@ -22,7 +22,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Oғ Tʜɪs Bᴏᴛ ɪs Pʀɪᴠᴀᴛᴇ 
 Aᴅᴅ Tʜɪs Bᴏᴛ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Usᴇ Lɪᴋᴇ Yᴏᴜʀs😊
 </b>
-<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @Biisal</b>
+<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @parshucr</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -44,7 +44,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/biisal)</code>
+<code>[Button Text](buttonurl:https://t.me/parshucr)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -207,7 +207,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/Ai_Auto_Filter_Bot">{file_name}
+    CAPTION = """<b><a href="https://t.me/+aepAlC_eEvlmOGJl">{file_name}
 
 sɪᴢᴇ : {file_size}
 Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ</a></b>"""
