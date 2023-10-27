@@ -79,7 +79,7 @@ async def give_filter(client, message):
                     [
                         InlineKeyboardButton(
                             "Mᴏᴠɪᴇ Gʀᴏᴜᴘ😊",
-                            url=f"https://t.me/SrikanthMovies3",
+                            url=f"https://t.me/srikanthreddycmd77",
                         )
                     ]
                 ]
@@ -106,7 +106,7 @@ async def pm_text(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/SrikanthMovies3"
+                        "ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 😊", url=f"https://t.me/srikanthreddycmd77"
                     )
                 ]
             ]
